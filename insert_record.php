@@ -3,7 +3,7 @@
 $pdo = new PDO( 
     "mysql:host=".'localhost'.";"."dbname=".'id12253477_sraminen355wi20', 
     'id12253477_sraminen355wi20', 
-    'Chinni_2000.'
+    'pass.'
 );
 
 
